@@ -1,0 +1,6 @@
+pandas
+numpy
+python-dotenv
+nbformat
+requests
+web3
